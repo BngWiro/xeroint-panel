@@ -19,4 +19,4 @@ Karena panel ini terus dikembangkan, Anda mungkin akan menemukan beberapa *bug* 
 - **Discord:** `bngwiro.`
 
 ---
-*Terima kasih telah menggunakan Xeroint Panel Host!*
+*Terima kasih telah menggunakan Xeroint Panel Host!!!!*
