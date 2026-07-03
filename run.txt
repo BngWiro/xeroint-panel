@@ -1,0 +1,11 @@
+Golang
+- cd ~/xeroint-panel/agent
+- go run main.go
+
+Laravel 
+- cd ~/xeroint-panel/web
+- php artisan serve --port=8000
+- php artisan serve
+
+Mysql
+- sudo service apache2 start
